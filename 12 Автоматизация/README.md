@@ -29,4 +29,4 @@ Python, Pandas, SQLAlchemy, PostrgeSQL, Tableau
 
 
 
- [Ссылка на презентацию](https://docs.google.com/presentation/d/1RxW3CdK13AE-M9Z73peTpcg_TnwIQABjsBLF4KRGH7c/edit#slide=id.g12213b04d86_0_6)
+ [Ссылка на презентацию]( https://disk.yandex.ru/i/wQhlZeOrKzyAKQ)
