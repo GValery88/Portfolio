@@ -18,7 +18,7 @@
 **Навыки и инструменты**  
 
 
-Python, Pandas,  Seaborn, matplotlib
+Python, Pandas,  Seaborn,  Matplotlib
 
 
 Исследовательский анализ, визуализация данных, предобработка данных 
