@@ -25,7 +25,7 @@ Python, Pandas, SQLAlchemy, PostrgeSQL, Tableau
 **Статус проекта:** завершен
  
 
- [Ссылка на дашборд](https://public.tableau.com/views/Dashboard_YandexDzen_16502954942970/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+ [Ссылка на дашборд](https://public.tableau.com/app/profile/valery.gondusov/viz/Valery/-)
 
 
 
